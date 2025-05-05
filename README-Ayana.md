@@ -1,4 +1,4 @@
-# Ayana - Site web mode
+# Ayana - Site web
 
 Ce site présente des looks avec des liens vers les vêtements. Je l’ai fait en HTML et CSS pour m’entraîner à créer un site moderne et organisé.  
 C’est un projet personnel pour montrer mes compétences en web.
